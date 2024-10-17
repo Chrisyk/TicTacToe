@@ -143,6 +143,14 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# Ignore packager files
+.pythonlibs/
+.upm/
+./poetry.lock
+./pyproject.toml
+./replit
+./replit.nix
+
 # Pyre type checker
 .pyre/
 
